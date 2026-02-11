@@ -1,5 +1,6 @@
 ﻿# My medicine
-A app of Ios or Android
+A app of Android part
 ## language
 
 [English](markdown/en-us.md) | [中文](markdown/zh-cn.md)
+
